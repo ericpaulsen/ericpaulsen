@@ -1,6 +1,6 @@
 ## Hey there, I'm Eric <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-Welcome to my GitHub profile! I'm a Solutions Engineer living in Austin, Texas 🌵 I'm just a small part of the Customer Success team [@cdr](https://github.com/cdr) who is passionate about learning new technologies and delivering solutions.
+Welcome to my GitHub profile! I'm a Solutions Engineer living in Austin, Texas 🌵 I'm just a small part of the Customer Success team [@cdr](https://github.com/cdr) who is passionate about learning new technologies and delivering solutions to software creators around the world 🌎
 
 - 💬 Ask me about [Coder](https://coder.com)
 - 📫 How to reach me: [ericpaulsen.io](https://ericpaulsen.io)
