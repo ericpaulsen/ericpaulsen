@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm a Solutions Engineer living in Austin, Texas ð
 
 ```javascript
 const eric = {
-  architecture: [cloud, microservices, client-server],
+  architecture: [cloud, microservices, networking],
   tools: [kubernetes, docker, helm, gcp, azure, aws],
   code: [javascript, html, css, bash],
 }
