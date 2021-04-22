@@ -1,13 +1,13 @@
 # Hey, I'm Eric 👋
 
-Welcome to my GitHub profile! I'm a Solutions Engineer living in Austin, Texas 🌵 I'm just a small part of the Customer Success team [@cdr](https://github.com/cdr). I am passionate about learning new technologies and working together to deliver solutions.
+Welcome to my GitHub profile! I'm a Solutions Engineer living in Austin, Texas 🌵 I'm just a small part of the Customer Success team [@cdr](https://github.com/cdr). I am passionate about learning new technologies and delivering solutions.
 
 ## Here's what I'm learning 🧠
 
 ```javascript
 var eric = {
-  architecture: [cloud, microservices, client-server]
-  tools: [kubernetes, docker, helm, gcp, azure, aws]
+  architecture: [cloud, microservices, client-server],
+  tools: [kubernetes, docker, helm, gcp, azure, aws],
   code: [javascript, html, css, bash],
 }
 ```
