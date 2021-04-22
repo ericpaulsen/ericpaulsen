@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hey, I'm Eric 👋
 
-<!--
-**ericpaulsen/ericpaulsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a Solutions Engineer living in Austin, Texas 🌵 I'm just a small part of the Customer Success team [@cdr](https://github.com/cdr). I am passionate about learning new technologies and working together to deliver solutions.
 
-Here are some ideas to get you started:
+## Here's what I'm learning 🧠
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+var eric = {
+  architecture: [cloud, microservices, client-server]
+  tools: [kubernetes, docker, helm, gcp, azure, aws]
+  code: [javascript, html, css, bash],
+}
+```
+
+- 💬 Ask me about [Coder](https://coder.com)
+- 📫 How to reach me: [ericpaulsen.io](https://ericpaulsen.io)
+
+![coderTaco](https://user-images.githubusercontent.com/9683576/115655361-c7a4fd80-a2f8-11eb-89ed-e18811b50e6c.png)
