@@ -1,6 +1,6 @@
-# Hey, I'm Eric 👋
+# Hey, I'm Eric 😄
 
-Welcome to my GitHub profile! I'm a Solutions Engineer living in Austin, Texas 🌵 I'm just a small part of the Customer Success team [@cdr](https://github.com/cdr). I am passionate about learning new technologies and delivering solutions.
+Welcome to my GitHub profile! I'm a Solutions Engineer living in Austin, Texas 🌵 I'm just a small part of the Customer Success team [@cdr](https://github.com/cdr) who is passionate about learning new technologies and delivering solutions.
 
 ## Here's what I'm learning 🧠
 
