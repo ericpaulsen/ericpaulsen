@@ -2,17 +2,18 @@
 
 Welcome to my GitHub profile! I'm a Solutions Engineer living in Austin, Texas 🌵 I'm just a small part of the Customer Success team [@cdr](https://github.com/cdr) who is passionate about learning new technologies and delivering solutions.
 
+- 💬 Ask me about [Coder](https://coder.com)
+- 📫 How to reach me: [ericpaulsen.io](https://ericpaulsen.io)
+
 ## Here's what I'm learning 🧠
 
 ```javascript
-var eric = {
+const eric = {
   architecture: [cloud, microservices, client-server],
   tools: [kubernetes, docker, helm, gcp, azure, aws],
   code: [javascript, html, css, bash],
 }
 ```
 
-- 💬 Ask me about [Coder](https://coder.com)
-- 📫 How to reach me: [ericpaulsen.io](https://ericpaulsen.io)
+![coderTaco](https://user-images.githubusercontent.com/9683576/115658600-b0690e80-a2fe-11eb-84ad-9cddd91d2896.png)
 
-![coderTaco >](https://user-images.githubusercontent.com/9683576/115655361-c7a4fd80-a2f8-11eb-89ed-e18811b50e6c.png)
