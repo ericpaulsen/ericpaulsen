@@ -18,3 +18,7 @@ const eric = {
   code: [javascript, html, css, bash],
 }
 ```
+
+## My GitHub Stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ericpaulsen&theme=tokyonight&show_icons=true)
