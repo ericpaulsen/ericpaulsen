@@ -19,4 +19,6 @@ const eric = {
 }
 ```
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+---
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ericpaulsen&theme=tokyonight&fire=DD7300)](https://git.io/streak-stats)
