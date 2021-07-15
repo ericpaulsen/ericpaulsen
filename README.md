@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a Solutions Engineer living in Austin, Texas ð
 const eric = {
   architecture: [cloud, microservices, networking],
   tools: [kubernetes, docker, helm, gcp, azure, aws],
-  code: [bash, terraform],
+  code: [bash, hcl, terraform],
 }
 ```
 
