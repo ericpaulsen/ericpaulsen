@@ -2,13 +2,13 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/9683576/115658600-b0690e80-a2fe-11eb-84ad-9cddd91d2896.png" />
 
-Just learning as I go with [Coder](https://github.com/cdr). Below you'll find repos of various things I've worked on, both professionally & personally.
+Just learning as I go with [Coder](https://github.com/cdr). Below you'll find repos of various things I've worked on, personally & professionally.
 
-- What is [Coder](https://coder.com) :interrobang:
-- 📫 How to reach me: [ericpaulsen.io](https://ericpaulsen.io)
+- What is [Coder](https://coder.com)❓
+- Find me here: [ericpaulsen.io](https://ericpaulsen.io) 📫
 
 
-## Stuff I'm wrapping my head around
+## Stuff I'm learning 🧠
 
 ```javascript
 const eric = {
