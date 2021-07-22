@@ -2,14 +2,13 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/9683576/115658600-b0690e80-a2fe-11eb-84ad-9cddd91d2896.png" />
 
-Welcome to my GitHub profile! I'm a Solutions Engineer living in Austin, Texas 🌵 I'm just a small part of the Customer Success team @ [Coder](https://github.com/cdr). I am passionate about learning new technologies and delivering solutions to software creators around the world 🌎
+Just learning as I go with [Coder](https://github.com/cdr). Below you'll find repos of various things I've worked on, both professionally & personally.
 
-- 💬 Ask me about [Coder](https://coder.com)
+- What is [Coder](https://coder.com) :interrobang:
 - 📫 How to reach me: [ericpaulsen.io](https://ericpaulsen.io)
 
 
-
-## Here's what I'm learning 🧠
+## Stuff I'm wrapping my head around
 
 ```javascript
 const eric = {
