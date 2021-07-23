@@ -5,7 +5,7 @@
 I'm a Solutions Engineer working with [Coder](https://github.com/cdr), and learning as I go. Below you'll find various things I've worked on, both personally and professionally. I love software, sports, and my wiener dog.
 
 - What is [Coder](https://coder.com)❓
-- Find me here: [ericpaulsen.io](https://ericpaulsen.io) 📫
+- Get in touch - [ericpaulsen.io](https://ericpaulsen.io) 📫
 
 
 ## Stuff I'm learning 🧠
