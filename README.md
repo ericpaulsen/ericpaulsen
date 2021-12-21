@@ -17,7 +17,3 @@ const eric = {
   code: [bash, hcl]
 }
 ```
-
-## Stats
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ericpaulsen&theme=tokyonight&fire=DD7300)](https://git.io/streak-stats)
