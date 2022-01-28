@@ -14,6 +14,6 @@ I'm a Sales Engineer working with [Coder](https://github.com/coder), and learnin
 const eric = {
   architecture: [cloud, microservices, networking],
   tools: [kubernetes, docker, helm, terraform, gcp, azure, aws],
-  code: [bash, hcl]
+  code: [go, bash, hcl]
 }
 ```
