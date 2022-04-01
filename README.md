@@ -8,7 +8,7 @@ I'm a Sales Engineer working with [Coder](https://github.com/coder), and learnin
 - Get in touch - [ericpaulsen.io](https://ericpaulsen.io) 📫
 
 
-## Technologies
+## Technologies 🤖
 
 ```javascript
 const eric = {
