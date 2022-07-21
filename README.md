@@ -12,7 +12,7 @@ I'm a Sales Engineer working with [Coder](https://github.com/coder), and learnin
 
 ```javascript
 const eric = {
-  architecture: [cloud, microservices, networking],
+  architecture: [cloud, microservices, linux],
   tools: [kubernetes, docker, helm, terraform, gcp, azure, aws],
   code: [go, bash, hcl]
 }
